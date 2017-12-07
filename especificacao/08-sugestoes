@@ -2,6 +2,10 @@ Sugestoes
 
 Qualquer usuário do sistema pode sugerir posts a outros
 Assinaturas dos comandos:
+sugerir <id_post> <nome_usuario> <nome_usuario>
+listar-sugestoes <nome_usuario>
+listar-sugeridos <nome_usuario>
+listar-sugestoes-post <id_post>
 
 > criar-usuario joao
 ok

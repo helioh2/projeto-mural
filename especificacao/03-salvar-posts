@@ -34,7 +34,7 @@ post-nao-encontrado
 post-nao-encontrado
 > postar-aviso joao "Amanhã não haverá aula de Calculo"
 ok
-> listar-post bloco2
+> listar-posts bloco2
 id_2 aviso joao "Amanhã não haverá aula de Calculo"
 id_1 anuncio joao "Vende-se Livro de Algebra"
 > salvar-post maria 1
